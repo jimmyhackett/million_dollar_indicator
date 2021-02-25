@@ -33,16 +33,16 @@ We chose to compare age groups with 10 year differences and their average income
 
 ### Download csv's
 
-(<https://www2.census.gov/programs-surveys/cps/tables/time-series/historical-income-people/p09ar.xlsx>)
-(<https://data.census.gov/cedsci/table?q=consumer%20expenditure%20survey%201990&tid=ABSCS2017.AB1700CSA01&hidePreview=true>)
-(<https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-people.html>)
-(<https://data.worldbank.org/indicator/SP.POP.TOTL?end=2019&start=1969&view=chart>)
-(<https://www.multpl.com/us-real-gdp-growth-rate/table/by-year>)
-(<https://www.multpl.com/inflation-adjusted-s-p-500/table/by-year>)
-(<https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fmikepatton%2Ffiles%2F2014%2F12%2FUS-GDP-Components-from-1929-to-2011.jpg>)
-(<https://www.multpl.com/us-gdp-inflation-adjusted/table/by-year>)
-(<https://www.multpl.com/us-real-gdp-growth-rate/table/by-year>)
-(<https://www2.census.gov/programs-surveys/cps/tables/time-series/historical-income-people/p09ar.xlsx>)
+#### (<https://www2.census.gov/programs-surveys/cps/tables/time-series/historical-income-people/p09ar.xlsx>)
+#### (<https://data.census.gov/cedsci/table?q=consumer%20expenditure%20survey%201990&tid=ABSCS2017.AB1700CSA01&hidePreview=true>)
+#### (<https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-people.html>)
+#### (<https://data.worldbank.org/indicator/SP.POP.TOTL?end=2019&start=1969&view=chart>)
+#### (<https://www.multpl.com/us-real-gdp-growth-rate/table/by-year>)
+#### (<https://www.multpl.com/inflation-adjusted-s-p-500/table/by-year>)
+#### (<https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fmikepatton%2Ffiles%2F2014%2F12%2FUS-GDP-Components-from-1929-to-2011.jpg>)
+#### (<https://www.multpl.com/us-gdp-inflation-adjusted/table/by-year>)
+#### (<https://www.multpl.com/us-real-gdp-growth-rate/table/by-year>)
+#### (<https://www2.census.gov/programs-surveys/cps/tables/time-series/historical-income-people/p09ar.xlsx>)
 
 ### Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pandas, numpy, matplotlib, seaborn, panel, pandas, hvplot, os, and tablescraper
 
