@@ -1,8 +1,9 @@
 # The Million Dollar Indicator
 
-## Is it possible to predict future macro economic levels based on population growth with internal consumption in the US reaching 70%?
+## Do changes in population affect GDP, and, subsequently, economic demands?
+## Is there a particular age demographic of the population that potentially has a greater impact on the demand levels?
+## Can predictions of future economic demand levels be made based off of fluctuations in this demographic?  (MACRO)
 
-## Is there a strong correlation between the GDP growth and population growth?
 
 First we compared annual percent change of GDP and Population, but did not find a strong correlation.
 
