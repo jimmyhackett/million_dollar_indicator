@@ -1,4 +1,3 @@
-# million_dollar_indicator
 # The Million Dollar Indicator
 
 ## Is it possible to predict future macro economic levels based on population growth with internal consumption in the US reaching 70%?
